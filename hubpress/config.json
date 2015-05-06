@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "Rentus",
-    "repositoryName": "rentus.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"Rentus","repositoryName":"rentus.github.io","branch":"master"},"site":{"title":"Rentus","url":"https://Rentus.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//Rentus.github.io/themes/Casper"}}
